@@ -1,3 +1,7 @@
+---
+tags:
+  - AWS
+---
 Run code serverless.
 
 **Free Tier** : 1 millon requests, 400000 Gb/s of compute time. 

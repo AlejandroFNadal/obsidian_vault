@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2368d8f10b59849c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a12cfb7a84676c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd822d01f2086b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German/Strong - Weak - Mixed verbs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b4155a982ab834c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd003e0b58332d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acae3a7fd987ca5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdd26f4362db7ab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83f1e5e500275bfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "86c4687e2fe99425",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d151b4a43948f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "681c269f379d2c32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "German/Strong - Weak - Mixed verbs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e850ba17878c5068",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "German/Strong - Weak - Mixed verbs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9c3f463d082dfa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3572ebeae20b8d88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "German/Strong - Weak - Mixed verbs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acae3a7fd987ca5d",
+  "lastOpenFiles": [
+    "German/Passive Voice.md",
+    "German/Modal Particles.md",
+    "German/Local and directional adverbs.md",
+    "German",
+    "EFS.md",
+    "Codecommit.md",
+    "Cloudformation.md",
+    "Adjektivierung.md",
+    "Indefinit pronomen.md",
+    "AWS",
+    "German/Strong - Weak - Mixed verbs.md",
+    "Batch.md",
+    "German/Konjuntiv II.md",
+    "Airflow Backfilling.md",
+    "DMS.md",
+    "Data Pipeline.md",
+    "attached/Pasted image 20231007172415.png",
+    "ElastiCache.md",
+    "ElasticSearch.md",
+    "KDF.md",
+    "Untitled 1.md",
+    "S3.md",
+    "DynamoDB.md",
+    "Lambda.md",
+    "Redshift.md",
+    "Glue.md",
+    "Athena.md",
+    "streaming_sqs.png",
+    "KDS.md",
+    "attached/Pasted image 20231007153839.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "attached/Pasted image 20230916214053.png",
+    "attached/Pasted image 20230915184830.png",
+    "attached/Pasted image 20230915184407.png",
+    "attached",
+    "VPC Lambda invocation.png",
+    "attached/destinatinos.png",
+    "streams_to_lambda.png",
+    "efs.png"
+  ]
+}
