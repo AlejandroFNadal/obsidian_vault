@@ -3,7 +3,7 @@
     {
       "type": "file",
       "ctime": 1696680142605,
-      "path": "ALB.md",
+      "path": "AWS/ALB.md",
       "title": "AWS"
     },
     {
@@ -13,7 +13,7 @@
         {
           "type": "file",
           "ctime": 1696683408526,
-          "path": "KDS.md",
+          "path": "AWS/KDS.md",
           "subpath": "#^1b195a"
         }
       ],

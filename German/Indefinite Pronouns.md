@@ -1,21 +1,44 @@
 #german 
 
-Vocab:
-- Atmen: breathe
+There are three types of indefinite pronouns:
 
-Was können alle Menschen?
-- Alle Menschen können denken.
-- Nur manche Menschen können ein Haus kaufen.
+- For things
+- For people
+- For both people and things
 
-Indefinitpronomen können Nomen ersetzen.
-Sie können für Personen oder Sachen verwendet werden, wenn diese oder ihre Menge entweder nicht bekannt oder nicht bestimmt sind.
+Indefinitpronomen können Nomen ersetzen. Sie können für Personen oder Sachen verwendet werden, wenn diese oder ihre Menge entweder nicht bekannt oder nicht bestimmt sind.
 
-**Fur sachen**: etwas, nichts: Sie werden nicht dekliniert.
-**Fur personen**: man, jemand, niemand: Sie werden nur im Singular benutzt:
-- man -> dativ: einem, akk:einen 
+## For things:
+
+They are not declinated. 
+- Etwas
+- Nichts
+### For people:
+- man
 - jemand
 - niemand
+
+These are declined:
+
+| Indefinitpronomen | Nominativ | Dativ | Akkusativ |
+| -- | -- | -- | -- |
+| man | man | einem | einen |
+| jemand | jemand | jemandem | jemanden |
+| niemand | niemand | niemandem | niemanden |
+
+
+Examples:
+- In Deustchland isst man gerne Brot
+- Kann mir jemand helfen? Nein, ich glaube, niemand hier spricht Englisch.
+- Er hat gewartet, aber niemand ist gekommen. Er wird mit jemandem darüber sprechen.
+- Wenn niemand mehr etwas braucht, dann werde ich gehen.
+- Ich glaube, ich habe jemanden in der Wohnung neben uns gehört. Eigentlich wohnt dort doch niemand, oder?
+
+
 Irgend: we have no idea what-where-who? Irgendwann, irgenwo, etc.
+
+## For both
+
 **Fur beide**: alle, jede, einige, machen, ein, kein
 - Ich war heute in supermarkt. Ich wolte mir etwas kaufen, aber es gab nichts frisches.
 - Es gab viele Angebote im Kaufhaus, aber wir haben nichts gekauft.
@@ -25,20 +48,14 @@ Irgend: we have no idea what-where-who? Irgendwann, irgenwo, etc.
 
 Ich war für nichts und wieder nichts im Supermarkt (it means to do it but it turned out not to be necessary.)
 
-Man, jemand un niemand:
+![[Pasted image 20231021150532.png]]
 
-- Kan mir jemand helfen? Nein, ich glaube, niemand spricht hier Englisch.
-- Er hat gewartet, aber niemand ist gekommen. Er wird mit jemandem darüber sprechen.
-- Wenn niemand mehr etwas braucht, dann werde ich gehen.
-- Ich glaube, ich habe jemanden in der Wohnung neben uns gehort. Eigentlich wohnt dort doch niemand, oder?
-
-Jede und Manche
-
+#### Jede und Manche
 Jede ist nur singular, manche hat auch pluralform.
 
 Manche can be used in singular :(
 
-Alle, einige, manche:
+### Alle, einige, manche:
 All declined, all of them are capable of plural.
 For singular, they mean only things. Alles, manches, einiges.
 
@@ -50,13 +67,12 @@ For singular, they mean only things. Alles, manches, einiges.
 
 Die indefinitpronomen ein un kein:
 
-They are declined, ein only has singular, kein has both forms.
 
 Important: the declination of man to einen/einem is not to mean one, but to mean people in general:
 
 Vergessen sie einen irgendwann (people forget you at some point)
 
+### Ein, kein
+Are declined both for people and things. They are declined, ein only has singular, kein has both forms.
 
-
-
-
+| ![[Pasted image 20231021152654.png]]

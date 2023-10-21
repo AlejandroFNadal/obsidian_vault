@@ -11,15 +11,24 @@
             "id": "9bd822d01f2086b4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c575cf2a5c882b35",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "German/Strong - Weak - Mixed verbs.md",
+                "file": "Asimov's Legendarium.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German/Strong - Weak - Mixed verbs.md",
+                "file": "Asimov's Legendarium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German/Strong - Weak - Mixed verbs.md",
+                "file": "Asimov's Legendarium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German/Strong - Weak - Mixed verbs.md"
+                "file": "Asimov's Legendarium.md"
               }
             }
           }
@@ -146,47 +155,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acae3a7fd987ca5d",
+  "active": "c575cf2a5c882b35",
   "lastOpenFiles": [
+    "Asimov's Legendarium.md",
+    "Untitled 1.canvas",
+    "Untitled 1.md",
+    "AWS/EFS.md",
+    "Untitled.canvas",
+    "attached/Pasted image 20230912195432.png",
+    "AWS/EC2.md",
+    "AWS/Airflow Backfilling.md",
+    "2023-10-07.md",
+    "German/Indefinite Pronouns.md",
+    "German/attached/Pasted image 20231021152654.png",
+    "German/attached/Pasted image 20231021150532.png",
+    "German/attached",
+    "German/Indefinit pronomen.md",
+    "German/Strong - Weak - Mixed verbs.md",
     "German/Passive Voice.md",
     "German/Modal Particles.md",
     "German/Local and directional adverbs.md",
     "German",
-    "EFS.md",
-    "Codecommit.md",
-    "Cloudformation.md",
-    "Adjektivierung.md",
-    "Indefinit pronomen.md",
+    "AWS/Codecommit.md",
+    "AWS/Cloudformation.md",
+    "German/Adjektivierung.md",
     "AWS",
-    "German/Strong - Weak - Mixed verbs.md",
-    "Batch.md",
+    "AWS/Batch.md",
     "German/Konjuntiv II.md",
-    "Airflow Backfilling.md",
-    "DMS.md",
-    "Data Pipeline.md",
+    "AWS/DMS.md",
+    "AWS/Data Pipeline.md",
     "attached/Pasted image 20231007172415.png",
-    "ElastiCache.md",
-    "ElasticSearch.md",
-    "KDF.md",
-    "Untitled 1.md",
-    "S3.md",
-    "DynamoDB.md",
-    "Lambda.md",
-    "Redshift.md",
-    "Glue.md",
-    "Athena.md",
-    "streaming_sqs.png",
-    "KDS.md",
+    "AWS/ElastiCache.md",
+    "AWS/ElasticSearch.md",
+    "AWS/KDF.md",
+    "AWS/S3.md",
+    "AWS/DynamoDB.md",
+    "AWS/Lambda.md",
+    "attached/streaming_sqs.png",
     "attached/Pasted image 20231007153839.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "attached/Pasted image 20230916214053.png",
     "attached/Pasted image 20230915184830.png",
     "attached/Pasted image 20230915184407.png",
     "attached",
-    "VPC Lambda invocation.png",
-    "attached/destinatinos.png",
-    "streams_to_lambda.png",
-    "efs.png"
+    "attached/VPC Lambda invocation.png"
   ]
 }
