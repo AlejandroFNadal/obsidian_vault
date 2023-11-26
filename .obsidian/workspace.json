@@ -21,14 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asimov's Legendarium.md",
+                "file": "German/Komparativ - Superlativ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37a8f8bf001554e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German/Verbs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71938d31e55b7c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German/Nouns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asimov's Legendarium.md",
+                "file": "German/Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asimov's Legendarium.md",
+                "file": "German/Verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,15 +158,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asimov's Legendarium.md"
+                "file": "German/Verbs.md"
               }
             }
+          },
+          {
+            "id": "cb1a87fad643ea61",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,8 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c575cf2a5c882b35",
+  "active": "37a8f8bf001554e6",
   "lastOpenFiles": [
+    "German/Adjetives.md",
+    "German/Verbs.md",
+    "German/Nouns.md",
+    "German/Komparativ - Superlativ.md",
+    "German/Kleidung.md",
+    "German/Correcting misunderstandings.md",
+    "ETH Analysis/ETH Analysis.md",
+    "Linux/Grep tricks.md",
+    "ETH Analysis",
+    "AWS/CW.md",
+    "Linux",
     "Asimov's Legendarium.md",
     "Untitled 1.canvas",
     "Untitled 1.md",
@@ -182,15 +226,7 @@
     "AWS",
     "AWS/Batch.md",
     "German/Konjuntiv II.md",
-    "AWS/DMS.md",
-    "AWS/Data Pipeline.md",
     "attached/Pasted image 20231007172415.png",
-    "AWS/ElastiCache.md",
-    "AWS/ElasticSearch.md",
-    "AWS/KDF.md",
-    "AWS/S3.md",
-    "AWS/DynamoDB.md",
-    "AWS/Lambda.md",
     "attached/streaming_sqs.png",
     "attached/Pasted image 20231007153839.png",
     "attached/Pasted image 20230916214053.png",
