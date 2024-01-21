@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a12cfb7a84676c7e",
+        "id": "63208681d121a449",
         "type": "tabs",
         "children": [
           {
-            "id": "9bd822d01f2086b4",
+            "id": "b31b02d5328d4311",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c575cf2a5c882b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Komparativ - Superlativ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37a8f8bf001554e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Verbs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71938d31e55b7c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Nouns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German/Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German/Verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "German/Verbs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,18 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37a8f8bf001554e6",
+  "active": "b31b02d5328d4311",
   "lastOpenFiles": [
-    "German/Adjetives.md",
-    "German/Verbs.md",
-    "German/Nouns.md",
+    "Economics/Stress Tests.md",
+    "AWS/CW.md",
     "German/Komparativ - Superlativ.md",
+    "AWS/S3.md",
+    "AWS/Lambda.md",
+    "Economics/Value at Risk.md",
+    "Economics",
+    "ETH Analysis/ETH Analysis.md",
+    "Linux/OOM.md",
+    "German/Verbs.md",
+    "German/Adjetives.md",
+    "German/Nouns.md",
     "German/Kleidung.md",
     "German/Correcting misunderstandings.md",
-    "ETH Analysis/ETH Analysis.md",
     "Linux/Grep tricks.md",
     "ETH Analysis",
-    "AWS/CW.md",
     "Linux",
     "Asimov's Legendarium.md",
     "Untitled 1.canvas",
@@ -220,12 +185,7 @@
     "German/Modal Particles.md",
     "German/Local and directional adverbs.md",
     "German",
-    "AWS/Codecommit.md",
-    "AWS/Cloudformation.md",
-    "German/Adjektivierung.md",
     "AWS",
-    "AWS/Batch.md",
-    "German/Konjuntiv II.md",
     "attached/Pasted image 20231007172415.png",
     "attached/streaming_sqs.png",
     "attached/Pasted image 20231007153839.png",
