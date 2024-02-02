@@ -36,6 +36,7 @@ The script runs as root and it can be used to download files, install updates an
 The script can be configured to run both on every startup or only in the first startup.
 
 It cannot be modified if the instance is running.
+The script, by default, runs at a root level. This means that if you clone a repo, it will be cloned at a / level. It will also be cloned with root ownership. 
 
 ## Naming convention
 

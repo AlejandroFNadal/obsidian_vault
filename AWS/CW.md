@@ -10,3 +10,4 @@ The parameter after the get is the log group.
 
 `aws events list-rules`
 `aws events disable-rule -name <x>`
+

@@ -11,11 +11,28 @@
             "id": "b31b02d5328d4311",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Cloudformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f62e6a91dfdaf352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLAlchemy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQLAlchemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQLAlchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQLAlchemy.md"
+              }
             }
           },
           {
@@ -147,12 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b31b02d5328d4311",
+  "active": "f62e6a91dfdaf352",
   "lastOpenFiles": [
-    "Economics/Stress Tests.md",
+    "AWS/Cloudformation.md",
+    "SQLAlchemy.md",
+    "Python",
+    "AWS/EC2.md",
+    "Linux/SSH tunnels.md",
+    "VIM/Vim Notes.md",
+    "VIM",
     "AWS/CW.md",
-    "German/Komparativ - Superlativ.md",
+    "AWS/DynamoDB.md",
     "AWS/S3.md",
+    "Economics/Stress Tests.md",
+    "German/Komparativ - Superlativ.md",
     "AWS/Lambda.md",
     "Economics/Value at Risk.md",
     "Economics",
@@ -172,18 +201,12 @@
     "AWS/EFS.md",
     "Untitled.canvas",
     "attached/Pasted image 20230912195432.png",
-    "AWS/EC2.md",
     "AWS/Airflow Backfilling.md",
     "2023-10-07.md",
     "German/Indefinite Pronouns.md",
     "German/attached/Pasted image 20231021152654.png",
     "German/attached/Pasted image 20231021150532.png",
     "German/attached",
-    "German/Indefinit pronomen.md",
-    "German/Strong - Weak - Mixed verbs.md",
-    "German/Passive Voice.md",
-    "German/Modal Particles.md",
-    "German/Local and directional adverbs.md",
     "German",
     "AWS",
     "attached/Pasted image 20231007172415.png",
