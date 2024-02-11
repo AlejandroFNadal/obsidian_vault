@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "63208681d121a449",
+        "id": "539c0014a055f37f",
         "type": "tabs",
         "children": [
           {
-            "id": "b31b02d5328d4311",
+            "id": "fbbe33f47f7b3f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Cloudformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de92f9fee0bc43e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Lifetimes.md",
+                "file": "Rust/Syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Lifetimes.md",
+                "file": "Rust/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Lifetimes.md",
+                "file": "Rust/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Lifetimes.md"
+                "file": "Rust/Syntax.md"
               }
             }
           },
@@ -175,16 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de92f9fee0bc43e5",
+  "active": "fbbe33f47f7b3f8f",
   "lastOpenFiles": [
-    "Rust/Traits.md",
+    "Rust/Closures.md",
+    "Rust/Syntax.md",
+    "AWS/Cloudformation.md",
     "Rust/Lifetimes.md",
+    "Rust/Ownership.md",
+    "Rust/Traits.md",
     "Rust/Generics.md",
     "Rust/Structs.md",
-    "Rust/Ownership.md",
     "Linux/Background tasks.md",
     "Rust/Embedded Rust Startup.md",
-    "AWS/Cloudformation.md",
     "Rust",
     "Linux/SSH tunnels.md",
     "SQLAlchemy.md",
@@ -205,8 +194,6 @@
     "German/Verbs.md",
     "German/Adjetives.md",
     "German/Nouns.md",
-    "German/Kleidung.md",
-    "German/Correcting misunderstandings.md",
     "ETH Analysis",
     "Linux",
     "Untitled 1.canvas",
