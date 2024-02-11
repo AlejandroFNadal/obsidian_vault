@@ -1,0 +1,1 @@
+`nohup tar -czvf archive_backup_local_archive_240202.tar.gz backup_local_archive/ > archivelog.txt &
