@@ -11,6 +11,7 @@ Stuff stored in the heap cannot, because only the stack references to the heap a
 
 Instead, here we would use the Clone method. Values in the stack are Copied, values in the heap are Cloned.
 
+When we pass a parameter, we are changing ownership. When we create and pass a reference, we are borrowing.
 ## Borrowing
 We pass a value as a reference to a function. It borrows the value, but it does not own it. As it does not own it, it is not destroyed afterwards.
 ```
@@ -61,3 +62,6 @@ println!("{}",s2);
 ```
 
 All String literals are slices, because they are just references to a part of the binary. 
+
+### Multiple ownership
+Things can have multiple owners through the [[Reference Counted Smart Pointer | RC]]
