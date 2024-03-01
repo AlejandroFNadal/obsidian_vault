@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "539c0014a055f37f",
+        "id": "e810a1b21aeab42f",
         "type": "tabs",
         "children": [
           {
-            "id": "fbbe33f47f7b3f8f",
+            "id": "a2fb21aa31f6545c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Syntax.md",
+                "file": "Rust/Embedded Rust Startup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Syntax.md",
+                "file": "Rust/Embedded Rust Startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Syntax.md",
+                "file": "Rust/Embedded Rust Startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Syntax.md"
+                "file": "Rust/Embedded Rust Startup.md"
               }
             }
           },
@@ -150,25 +150,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "fbbe33f47f7b3f8f",
+  "active": "a2fb21aa31f6545c",
   "lastOpenFiles": [
+    "Rust/Atomic Mutexes.md",
+    "Linux/SCP.md",
+    "Linux/Export command.md",
+    "Linux/Checksumming stuff.md",
+    "Linux/APT.md",
+    "Rust/Threads.md",
+    "Rust/Smart Pointers.md",
+    "Rust/Mutexes.md",
+    "Rust/RefCell.md",
+    "Rust/Reference Counted Smart Pointer.md",
+    "Rust/Ownership.md",
+    "Rust/Recursive Types.md",
+    "Rust/Box.md",
+    "Rust/Iterators.md",
     "Rust/Closures.md",
     "Rust/Syntax.md",
+    "Linux/Compression.md",
     "AWS/Cloudformation.md",
     "Rust/Lifetimes.md",
-    "Rust/Ownership.md",
     "Rust/Traits.md",
     "Rust/Generics.md",
     "Rust/Structs.md",
@@ -178,22 +193,8 @@
     "Linux/SSH tunnels.md",
     "SQLAlchemy.md",
     "Python",
-    "AWS/EC2.md",
-    "VIM/Vim Notes.md",
     "VIM",
-    "AWS/CW.md",
-    "AWS/DynamoDB.md",
-    "AWS/S3.md",
-    "Economics/Stress Tests.md",
-    "German/Komparativ - Superlativ.md",
-    "AWS/Lambda.md",
-    "Economics/Value at Risk.md",
     "Economics",
-    "ETH Analysis/ETH Analysis.md",
-    "Linux/OOM.md",
-    "German/Verbs.md",
-    "German/Adjetives.md",
-    "German/Nouns.md",
     "ETH Analysis",
     "Linux",
     "Untitled 1.canvas",
